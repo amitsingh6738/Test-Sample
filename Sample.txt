@@ -1,2 +1,2 @@
 Sample GIT upload.
-Added one more sentence by Tej
+Added one more sentence by Tej.
